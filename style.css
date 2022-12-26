@@ -81,7 +81,7 @@ body {
 .todoList li {
     position: relative;
     list-style: none;
-    width: 340px;
+    width: 400px;
     height: 60px;
     background: #031956;
     color: #a8b2c4;
